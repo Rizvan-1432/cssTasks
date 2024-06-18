@@ -1,0 +1,21 @@
+.text {
+    background-color: #ffa7a7;
+    font-size: 24px;
+}
+#block {
+    font-size: 36px;
+    color: #0000ff;
+}
+.message {
+    font-size: 24px;
+    background-color: #ffa7a7;
+}
+#blockNumber {
+    font-size: 24px;
+    background-color: #80ff80;
+    font-weight: bold;
+}
+.number {
+    font-size: 24px;
+    background-color: #ffa7a7;
+}

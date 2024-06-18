@@ -1,0 +1,19 @@
+div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #FF0000;
+    text-align: center;
+    color: white;
+    height: 30px;
+    font-size: 20px;
+    font-weight: bold;
+}
+p {
+    background-color: #008000;
+    color: #a1e4df;
+}
+button {
+    border-radius: 1px solid #979797;
+    background-color: #ffa500;
+}
